@@ -24,7 +24,7 @@ body {
 
 .navbar {
     background-color: #444;
-    box-shadow: 0 4px 6px rgba(34, 142, 210, 0.5);
+    box-shadow: 0 8px 8px rgba(34, 142, 210, 0.5);
 }
 
 .card {
